@@ -1,4 +1,4 @@
-package Arrays;
+package code_for_arrays;
 
 
 public class ArrayOperations {
